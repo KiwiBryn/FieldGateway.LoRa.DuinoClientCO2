@@ -1,7 +1,7 @@
 # FieldGateway.LoRa.DuinoClientCO2
 Sample CO2 Sensor monitor for my [LoRa](https://lora-alliance.org/) field gateway projects
 
-I used the [Arduino-Lora](https://github.com/sandeepmistry/arduino-LoRa) & [Sandbox Electronics NDIR](javascript:void(0);) libraries, thank you to the authors Sandeep Mistry & Seeedstudio.
+I used the [Arduino-Lora](https://github.com/sandeepmistry/arduino-LoRa) & [Sandbox Electronics NDIR](https://github.com/SandboxElectronics/NDIR) libraries, thank you to the authors Sandeep Mistry & Sandbox Electronics.
 
 Device options
 
